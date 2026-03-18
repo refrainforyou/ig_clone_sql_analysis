@@ -10,6 +10,17 @@ By working with multiple related tables (users, photos, likes, comments, follows
 
 ---
 
+## ⚙️ Skills Demonstrated
+
+- SQL JOINs (INNER, LEFT)
+- Aggregation functions (COUNT, AVG)
+- Subqueries
+- Handling duplicate rows in JOINs (DISTINCT)
+- Analytical thinking and business metrics
+- Social network data analysis
+
+---
+
 ## 📂 Database Structure
 
 The project is built on a relational database with the following tables:
