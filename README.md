@@ -18,6 +18,7 @@ By working with multiple related tables (users, photos, likes, comments, follows
 - Handling duplicate rows in JOINs (DISTINCT)
 - Analytical thinking and business metrics
 - Social network data analysis
+- Window functions (RANK() OVER() for ranking users and content, PARTITION BY for segment-based analysis, Top-N queries for identifying best-performing items)
 
 ---
 
@@ -51,6 +52,8 @@ ig_clone_sql_analysis
 │   ├── Top_10_Photos_With_Most_Comments.sql
 │   ├── Top_10_Users_By_Followers.sql
 │   ├── Top_10_Users_Who_Comment_The_Most.sql
+│   ├── Top_3_Photos_For_Each_User.sql
+│   ├── User_Rating_By_Subscribers.sql
 │   ├── Users_Registrations_By_Day_Of_Week.sql
 │   └── Users_Without_Photos.sql
 │
@@ -85,6 +88,7 @@ ig_clone_sql_analysis
 ### 🌐 Social Graph
 - Identify top users by number of followers
 - Analyze most active commenters
+- Top photos for each user
 
 ### 🚨 Anomaly Detection
 - Detect potential bot or spam behavior based on abnormal activity patterns
