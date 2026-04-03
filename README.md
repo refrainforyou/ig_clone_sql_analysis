@@ -44,9 +44,11 @@ ig_clone_sql_analysis
 ├── analysis_queries
 │   ├── Average_Likes_Per_Photo.sql
 │   ├── Average_Photos_Per_User.sql
+│   ├── Daily_Active_Users.sql
 │   ├── Detects_Potential_Bot_Or_Spam_Behavior.sql
 │   ├── Engagement_Score.sql
 │   ├── Finding_5_oldest_users.sql
+│   ├── Monthly_Active_Users.sql
 │   ├── Top_10_Most_Liked_Photos.sql
 │   ├── Top_10_Most_Used_Tags.sql
 │   ├── Top_10_Photos_With_Most_Comments.sql
